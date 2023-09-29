@@ -1,3 +1,73 @@
 body {
     font-family: "Raleway", "Roboto", sans-serif;
+    background-color: #fff;
 }
+header {
+    background-color: #E7E9FC;
+}
+
+header nav a {
+    color: #2E2F42;
+    font-family: "Raleway";
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.54px;
+    line-height: 21px;
+}
+
+header nav ul {
+    color: #2E2F42;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.32px;
+    line-height: 24px;
+}
+
+header address {
+    color: #434455;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0.32px;
+    line-height: 24px;
+}
+
+.section-1 {
+    background-color: #2E2F42;
+}
+
+h1 {
+    color: #fff;
+    font-family: "Roboto";
+    font-size: 56px;
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 1.12px;
+    line-height: 60px;
+}
+
+button {
+    background-color: #4D5AE5;
+    color:#fff;
+    border-radius: 4px;
+    padding: 16px 32px;
+}
+.section-2 h3 {
+    color: #2E2F42;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+}
+
+.section-2 p {
+    color: #434455;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.32px
+}
+
