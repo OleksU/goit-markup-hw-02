@@ -3,9 +3,6 @@ body {
     background-color: #ffffff;
     color: #434455;
 }
-header {
-    background-color: #E7E9FC;
-}
 
 .logo {
     color: #4D5AE5;
@@ -22,16 +19,9 @@ ul {
     list-style-type: none;
 }
 
-.logo:hover,
-.logo:focus {
-    text-decoration: underline;
-}
-
-
 .studio {
     color: #2E2F42;
 }
-
 
 .headline {
     color: #2E2F42;
@@ -42,14 +32,6 @@ ul {
     text-decoration: none;
 }
 
-
-.headline:hover,
-.headline:focus {
-    text-decoration: underline;
-    color:#404bbf;
-}
-
-
 .contact {
     font-style: normal;
 }
@@ -58,7 +40,6 @@ ul {
 .info {
     color: #434455;
     font-size: 16px;
-    font-weight: 400;
     letter-spacing: 0.02em;
     line-height: 1.5;
     text-decoration: none;
@@ -111,6 +92,7 @@ ul {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    font-weight: 400;
 }
 
 
@@ -120,7 +102,6 @@ ul {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    text-transform: uppercase;
     text-align: center;
 }
 
@@ -158,6 +139,7 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-weight: 400;
 }
 
 
@@ -176,4 +158,5 @@ ul {
     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
+    font-weight: 400;
 }
