@@ -32,6 +32,11 @@ ul {
     text-decoration: none;
 }
 
+.headline:hover,
+.headline:active {
+    color: #404bbf;
+}
+
 .contact {
     font-style: normal;
 }
