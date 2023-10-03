@@ -33,7 +33,7 @@ ul {
 }
 
 .headline:hover,
-.headline:active {
+.headline:focus {
     color: #404bbf;
 }
 
